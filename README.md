@@ -1,2 +1,5 @@
-# Test Repository
-My repository for the CHF Day 2 Workshop
+# Project Title: TITLE
+## How to Start this Project
+1. Open the project folder in VS Code
+2. Go to your terminal
+3. Enter `npm start`
